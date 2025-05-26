@@ -180,7 +180,7 @@ Use a gradient as brush, then draw the pict @racket[p].}
 Save the pict @racket[p] as @racket[filename].}
 The default format is @racket['png], other formats include @racket['svg],
 @racket['pdf], @racket['xbm], @racket['xpm] and @racket['bmp].
-JPEG is not included.
+JPEG is not included.😂
 
 @defproc[(margin [r real?] [p pict?]) pict?]{
 Equivalent to @racket[(inset p r)].}
